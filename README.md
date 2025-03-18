@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vicente D'Alessandro and I'm a Systems analyst and Fullstack Developer from Argentina.</p>
+<p align="left">My name is Vicente D'Alessandro and I'm a Systems analyst and Fullstack Developer from Argentina 🇦🇷. I'm a Systems Analyst and Full Stack Developer. I'm always on the move and learning new technologies and working methods. I enjoy challenges, which is one of the reasons why I love programming. I'm a quick learner and have a good disposition. I consider myself a creative person and a good team player.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">💻 I code with</h2>
+<h2 align="left">👨‍💻 I code with</h2>
 
 ###
 
