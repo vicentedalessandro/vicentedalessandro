@@ -1,22 +1,30 @@
-<div align="center">
+<br clear="both">
+
+<h1 align="left">Hello World!!</h1>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=vicentedalessandro&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicentedalessandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicentedalessandro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/d4maz39lule471mqow3nk9yu8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d4maz39lule471mqow3nk9yu8&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d4maz39lule471mqow3nk9yu8&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<p align="left">Editor de código</p>
+<h3 align="left">Editor de código</h3>
 
 ###
 
@@ -26,7 +34,7 @@
 
 ###
 
-<p align="left">Lenguajes de programación</p>
+<h3 align="left">Lenguajes de programación</h3>
 
 ###
 
@@ -56,7 +64,7 @@
 
 ###
 
-<p align="left">Frameworks y compiladores</p>
+<h3 align="left">Frameworks y compiladores</h3>
 
 ###
 
@@ -76,7 +84,7 @@
 
 ###
 
-<p align="left">Base de datos</p>
+<h3 align="left">Base de datos</h3>
 
 ###
 
@@ -90,7 +98,7 @@
 
 ###
 
-<p align="left">Another Skills</p>
+<h3 align="left">Another Skills</h3>
 
 ###
 
@@ -108,9 +116,11 @@
 
 ###
 
-<p align="left">Redes sociales y contacto</p>
+<h3 align="left">Redes sociales y contacto</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -118,6 +128,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
@@ -127,10 +139,16 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/vicentedalessandro/vicentedalessandro/output/snake.svg" alt="Snake animation" />
 
 ###
 
