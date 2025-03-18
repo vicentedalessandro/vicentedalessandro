@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h1 align="left">Hello World!!</h1>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=vicentedalessandro&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -13,8 +9,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://open.spotify.com/user/d4maz39lule471mqow3nk9yu8">
@@ -120,16 +114,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
@@ -138,8 +128,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
