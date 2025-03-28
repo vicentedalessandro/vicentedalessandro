@@ -14,13 +14,13 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">📁​ Projects</h2>
 
 ###
 
 <div align="left">
   <a href="https://limine.com.ar/" target="_blank" rel="noreferrer">
-    <p align="left">🌐​ limine.com.ar</p>
+    <i>🌐 </i><p align="left">limine.com.ar</p>
   </a>
 </div>
 
