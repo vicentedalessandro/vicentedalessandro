@@ -14,6 +14,18 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+###
+
+<div align="left">
+  <a href="https://limine.com.ar/" target="_blank" rel="noreferrer">
+    <p align="left">🌐​ limine.com.ar</p>
+  </a>
+</div>
+
+###
+
 <h2 align="left">💻 Code editor</h2>
 
 ###
@@ -77,13 +89,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vicentedalessandro/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/vicentedalessandro/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/+5492314578360" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/+5492314578360" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="http://t.me/+5492314578360" target="_blank" rel="noopener noreferrer">
+  <a href="http://t.me/+5492314578360" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
