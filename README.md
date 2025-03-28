@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://limine.com.ar/" target="_blank" rel="noreferrer">
-    <i>🌐 </i><p align="left">limine.com.ar</p>
+    <p>Límine website. This website uses the Meta API to retrieve the most recent Instagram posts. Additionally, users can fill out a contact form.</p><br><p>🌐 </p><p align="left">limine.com.ar</p>
   </a>
 </div>
 
