@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br><br>😄 My nickname is Vis.<br><br>📚 Currently learning AWS.<br><br>🔭 I’m currently working at Fortecar and Límine Energía Renovable.<br><br>🎯 Goals: Become an expert in APIs, Databases, and Automation, as well as other backend-related topics.<br><br>⚡ Fun fact: my favorite game series is Souls.</p>
+<p align="left">✨ Creating bugs since 2021.<br><br>😄 My nickname is Vis.<br><br>📚 Currently learning AWS.<br><br>🔭 I’m currently working in Fortecar and Límine Energía Renovable.<br><br>🎯 Goals: Become an expert in APIs, Databases, and Automation, as well as other backend-related topics.<br><br>⚡ Fun fact: my favorite game series is Souls.</p>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h2 align="left">📫 How to reach me</h2>
+<h2 align="left">📫 Contact me</h2>
 
 ###
 
