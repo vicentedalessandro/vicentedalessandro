@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br><br>😄 My nickname is Vis.<br><br>📚 Currently learning AWS.<br><br>🔭 I’m currently working in Fortecar and Límine Energía Renovable.<br><br>🎯 Goals: Become an expert in APIs, Databases, and Automation, as well as other backend-related topics.<br><br>⚡ Fun fact: my favorite game series is Souls.</p>
+<p align="left">✨ Creating bugs since 2021.<br><br>😄 My nickname is Vis.<br><br>📚 Currently learning AWS.<br><br>🔭 I’m currently working in Fortecar.<br><br>🎯 Goals: Become an expert in APIs, Databases, and Automation, as well as other backend-related topics.<br><br>⚡ Fun fact: my favorite game series is Souls.</p>
 
 ###
 
@@ -50,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
